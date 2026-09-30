@@ -4,7 +4,7 @@
 ## APIs distribuées, concurrence, latence, résilience, idempotence, messaging et observabilité
 
 **Niveau :** avancé à très avancé  
-**Durée conseillée :** 6 h à 10 h  
+**Durée conseillée :** 2 h à 3 h  
 **Architecture :** microservices pédagogiques conteneurisés  
 **Technologies :** Python 3.11+, FastAPI, PostgreSQL, Redis, RabbitMQ, Docker, Docker Compose, HTTPX, Pytest, Locust  
 **Systèmes :** Linux, macOS, Windows PowerShell et Windows CMD

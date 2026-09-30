@@ -3,7 +3,7 @@
 ## HTTP, JSON, CRUD, validation, erreurs, tests et clients
 
 **Niveau :** avancé  
-**Durée conseillée :** 4 h à 6 h  
+**Durée conseillée :** 2 h à 3 h  
 **Technologies :** Python 3.11+, FastAPI, Uvicorn, HTTPX, Pytest, JSON, HTTP/1.1  
 **Systèmes :** Linux, macOS, Windows PowerShell et Windows CMD
 
