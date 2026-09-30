@@ -11,7 +11,7 @@
 
 ## 1. Objectifs du TP
 
-À la fin de ce TP, vous serez capable de :
+**À la fin de ce TP, vous serez capable de** :
 
 - comprendre précisément le fonctionnement d'un échange **HTTP client-serveur** ;
 - distinguer les méthodes **GET, POST, PUT, PATCH et DELETE** ;
@@ -21,11 +21,11 @@
 - valider automatiquement les données entrantes ;
 - gérer les erreurs fonctionnelles et techniques ;
 - utiliser les **headers HTTP** ;
-- tester une API avec `curl`, PowerShell et Python ;
+- tester une **API** avec `curl`, PowerShell et Python ;
 - écrire des tests automatisés avec **Pytest** ;
 - comprendre l'**idempotence**, la pagination, le filtrage et les timeouts ;
 - utiliser une documentation **OpenAPI / Swagger** ;
-- appliquer plusieurs bonnes pratiques utilisées dans des API professionnelles.
+- appliquer plusieurs bonnes pratiques utilisées dans des **API professionnelles**.
 
 ---
 

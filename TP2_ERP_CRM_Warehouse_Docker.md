@@ -1,6 +1,5 @@
 # TP 2 - Intégration multi-systèmes : ERP, CRM et Warehouse avec Docker
 
-**Version fortement commentée - édition pédagogique**
 
 ## APIs distribuées, concurrence, latence, résilience, idempotence, messaging et observabilité
 
