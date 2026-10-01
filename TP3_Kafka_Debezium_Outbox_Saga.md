@@ -803,7 +803,7 @@ Créer `erp/requirements.txt` :
 fastapi
 uvicorn[standard]
 sqlalchemy
-psycopg2-binary
+psycopg[binary]
 pydantic
 httpx
 redis
