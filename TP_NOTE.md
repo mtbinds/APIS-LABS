@@ -3,11 +3,17 @@
 ## Coordination entre Scolarité, Plateforme pédagogique et Contrôle d’accès
 
 **Niveau :** intermédiaire
-**Durée maximale :** 3 heures 
-**Barème :** /20 
+
+**Durée maximale :** 3 heures
+
+**Barème :** /20
+
 **Travail :** individuel 
-**Rendu principal :** un **rapport PDF** illustré, argumenté et structuré 
+
+**Rendu principal :** un **rapport PDF** illustré, argumenté et structuré
+
 **Technologies :** **Python 3.11+**, **FastAPI**, **HTTPX**, **Docker**, **Docker Compose**, **JSON**, **HTTP** 
+
 **Outils autorisés pour les tests :** **Swagger**, **`curl`**, **Postman**, **PowerShell**, **navigateur** 
 
 ---
