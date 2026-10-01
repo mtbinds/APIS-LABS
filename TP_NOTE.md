@@ -497,14 +497,7 @@ COPY main.py .
 # Tous les services utilisent 8000 DANS leur conteneur.
 # Les ports différents 8000/8001/8002 sont définis ensuite
 # dans docker-compose.yml sur la machine hôte.
-CMD [
-    "uvicorn",
-    "main:app",
-    "--host",
-    "0.0.0.0",
-    "--port",
-    "8000"
-]
+CMD ["uvicorn","main:app","--host","0.0.0.0","--port","8000"]
 ```
 
 ---
