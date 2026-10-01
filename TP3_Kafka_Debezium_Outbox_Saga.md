@@ -3,7 +3,7 @@
 
 ## Kafka, Debezium, Schema Registry, PostgreSQL, Redis, Saga, DLQ, idempotence, observabilité et chaos testing
 
-**Niveau :** expert  
+**Niveau :** intermédiaire 
 **Durée conseillée :** 2 h à 3 h  
 **Architecture :** event-driven distribuée  
 **Technologies :** Python 3.12+, FastAPI, PostgreSQL, Kafka, Kafka Connect, Debezium, Redis, Docker, Docker Compose, HTTPX, Pytest  
